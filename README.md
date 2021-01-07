@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vexingcodes/dwarf-fortress-docker)
+
 # Dwarf Fortress Docker
 
 Run Dwarf Fortress in an unprivileged Docker container using
